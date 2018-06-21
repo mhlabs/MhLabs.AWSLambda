@@ -1,0 +1,8 @@
+C:\code\mhlabs\MhLabs.AWSStepFunctions\bin\Debug\netstandard2.0\MhLabs.AWSStepFunctions.deps.json
+C:\code\mhlabs\MhLabs.AWSStepFunctions\bin\Debug\netstandard2.0\MhLabs.AWSStepFunctions.dll
+C:\code\mhlabs\MhLabs.AWSStepFunctions\bin\Debug\netstandard2.0\MhLabs.AWSStepFunctions.pdb
+C:\code\mhlabs\MhLabs.AWSStepFunctions\obj\Debug\netstandard2.0\MhLabs.AWSStepFunctions.csproj.CoreCompileInputs.cache
+C:\code\mhlabs\MhLabs.AWSStepFunctions\obj\Debug\netstandard2.0\MhLabs.AWSStepFunctions.AssemblyInfoInputs.cache
+C:\code\mhlabs\MhLabs.AWSStepFunctions\obj\Debug\netstandard2.0\MhLabs.AWSStepFunctions.AssemblyInfo.cs
+C:\code\mhlabs\MhLabs.AWSStepFunctions\obj\Debug\netstandard2.0\MhLabs.AWSStepFunctions.dll
+C:\code\mhlabs\MhLabs.AWSStepFunctions\obj\Debug\netstandard2.0\MhLabs.AWSStepFunctions.pdb
