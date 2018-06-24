@@ -858,13 +858,13 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "restore": {
-      "projectUniqueName": "C:\\code\\mhlabs\\MhLabs.AWSStepFunctions\\MhLabs.AWSStepFunctions.csproj",
-      "projectName": "MhLabs.AWSStepFunctions",
-      "projectPath": "C:\\code\\mhlabs\\MhLabs.AWSStepFunctions\\MhLabs.AWSStepFunctions.csproj",
+      "projectUniqueName": "C:\\code\\mhlabs\\MhLabs.AWSLambda\\MhLabs.AWSLambda.csproj",
+      "projectName": "MhLabs.AWSLambda",
+      "projectPath": "C:\\code\\mhlabs\\MhLabs.AWSLambda\\MhLabs.AWSLambda.csproj",
       "packagesPath": "C:\\Users\\larsj\\.nuget\\packages\\",
-      "outputPath": "C:\\code\\mhlabs\\MhLabs.AWSStepFunctions\\obj\\",
+      "outputPath": "C:\\code\\mhlabs\\MhLabs.AWSLambda\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

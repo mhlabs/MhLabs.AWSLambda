@@ -4,11 +4,11 @@ using System.Threading.Tasks;
 using Amazon.Lambda.Core;
 using Newtonsoft.Json;
 
-namespace MhLabs.AWSStepFunctions
+namespace MhLabs.AWSLambda
 {
-    public abstract class StepFunctionsLambdaBase<TInput, TOutput>
+    public abstract class LambdaBase<TInput, TOutput>
     {
-        protected StepFunctionsLambdaBase()
+        protected LambdaBase()
         {
 
         }

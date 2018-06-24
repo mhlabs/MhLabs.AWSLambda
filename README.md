@@ -1,7 +1,7 @@
 # Usage
 
 ```
-public class ParseMemberDetails : StepFunctionsLambdaBase<Input, Output>
+public class ParseMemberDetails : AWSLambdaLambdaBase<Input, Output>
     {
         public override async Task<TranscriptDetailsModel> HandleInput(Input input, ILambdaContext context)
         {
